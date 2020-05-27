@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Android Project</string>
-    <string name="hello_message">Namaste!</string>
-    <string name="ButtonText">I\'m a button</string>
+    <string name="hello_message">हैलो!</string>
+    <string name="ButtonText">मैं एक बटन हूँ</string>
 </resources>
